@@ -20,3 +20,6 @@ tmp
 .codeintel
 .sass-cache
 public/assets
+.ruby-version
+.ruby-gemset
+.powrc
